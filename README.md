@@ -1,6 +1,6 @@
 <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
-        <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
+        <img src="https://github.com/DualsFWShield/DualsFWShield/blob/0fdf91928c584edccca1dcfb2a560313145f8323/wth-smile.gif" width="120" height="120" alt="Description of the image">
     </a>
 </p>
 
