@@ -114,7 +114,6 @@
     <li>🍽️ Eating</li>
     <li>🛌 Sleeping</li>
     <li>👨🏻‍💻 Coding</li>
-    <li>🔁 Repeating</li>
     <li>📚 Learning</li>
     <li>🎮 Video Games</li>
     <li>🎧 Listening to Music</li>
@@ -137,5 +136,4 @@ while(alive) {
   sleep();
   code();
 }
-// - Aashis Jha
 </pre>
