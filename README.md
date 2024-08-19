@@ -1,17 +1,13 @@
 <p align="center">
-    <a href="http://jrohit.com.np" target="_blank">
         <img src="https://github.com/DualsFWShield/DualsFWShield/blob/0fdf91928c584edccca1dcfb2a560313145f8323/wth-smile.gif" width="120" height="120" alt="Description of the image">
-    </a>
 </p>
 
 <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Developpeur;Hacker+%C3%A9tique;Monteur+vid%C3%A9o;Designer+Web;Intelligence+Artificielle" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Developpeur;Hacker+%C3%A9tique;Monteur+vid%C3%A9o;Designer+Web;Intelligence+Artificielle"/>
 </p>
 
 <p align="center">
-    <a href="https://github.com/DualsFWShield">
         <img src="contributions.svg" alt="Contributions"/>
-    </a>
 </p>
 
 <p align="center"> 
@@ -39,13 +35,13 @@
 
 <p align="center">
     <a href="https://sites.google.com/view/brn-s/" target="_blank">
-        <img alt="Site" src="https://lh4.googleusercontent.com/T912u7K6tA3z-D3XSc4oP8izDWce1CZU5HCl0DpwuyM5LYROJJTWOYTRp4kg4aMaOqA3vnN13h1b7JI6SQ2CjJ8=w16383" width="40" height="40" />
+        <img alt="Site" src="https://lh6.googleusercontent.com/UKiYCj6SyyTedkC2i_tfkGsIAVQwX6SIl8aE6pj0hvtJKdSYRGvfw2Bua5dbyDbqs6kFkM9Ko7ody6It171GNbA=w16383"/>
     </a>
     <a href="https://www.youtube.com/@brn-s" target="_blank">
-        <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UClwCIeNju1hnCj2jsWlxSdA" width="40" height="40" />
+        <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UClwCIeNju1hnCj2jsWlxSdA"/>
     </a>
     <a href="https://www.instagram.com/brn.s00/" target="_blank">
-        <img alt="Instagram" src="https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/tBxa1IFcTQH.png" width="40" height="40" />
+        <img alt="Instagram" src="https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/tBxa1IFcTQH.png"/>
     </a>
 </p>
 
