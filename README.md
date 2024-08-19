@@ -41,7 +41,7 @@
         <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UClwCIeNju1hnCj2jsWlxSdA"/>
     </a>
     <a href="https://www.instagram.com/brn.s00/" target="_blank">
-        <img alt="Instagram" src="https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/tBxa1IFcTQH.png"/>
+        <img alt="Instagram" src="https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/tBxa1IFcTQH.png" width="40" height="40" />
     </a>
 </p>
 
