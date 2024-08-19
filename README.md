@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://github.com/getintorj/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Developpeur;Hacker+%C3%A9tique;Monteur+vid%C3%A9o;Designer+Web;Intelligence+Artificielle" />
+        <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Developpeur;Hacker+%C3%A9tique;Monteur+vid%C3%A9o;Designer+Web;Intelligence+Artificielle" />
     </a>
 </p>
 
