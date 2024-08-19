@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://photos.fife.usercontent.google.com/pw/AP1GczP5_m0uwXX6F2c1Co4iEP9t62KTlr2zFRR0BUPO7R1dhKuADvPWiFzzyA=w992-h992-s-no-gm?authuser=0" width="120" height="120" alt="Description of the image">
+        <img src="https://github.com/DualsFWShield/DualsFWShield/blob/6ca9f4ab53c7c74c23089f1795d1d1eeba280229/Duals-simple.png" width="120" height="120">
 </p>
 
 <p align="center">
