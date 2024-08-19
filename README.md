@@ -31,7 +31,7 @@
 
 <p align="center">
     <a href="https://sites.google.com/view/brn-s/" target="_blank">
-        <img alt="Site" src="https://lh6.googleusercontent.com/UKiYCj6SyyTedkC2i_tfkGsIAVQwX6SIl8aE6pj0hvtJKdSYRGvfw2Bua5dbyDbqs6kFkM9Ko7ody6It171GNbA=w16383"/>
+        <img alt="Site" src="https://github.com/DualsFWShield/DualsFWShield/blob/d00a4ab12aa4ad751a4ae801cbae1891d0e74507/Brn's%202.0.png" width="40" height="40"/>
     </a>
     <a href="https://www.youtube.com/@brn-s" target="_blank">
         <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UClwCIeNju1hnCj2jsWlxSdA"/>
