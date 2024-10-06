@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/DualsFWShield/DualsFWShield/blob/main/contributions.svg" alt="Contributions Graph">
+    <img src="https://raw.githubusercontent.com/DualsFWShield/DualsFWShield/75bcf4b52138535a43d91dc7da74a94eeb805c31/github-contribution-grid-snake-dark.svg" alt="Contributions Graph">
 </p>
 
 ---
