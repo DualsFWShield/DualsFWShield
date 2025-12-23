@@ -116,20 +116,4 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
   <br><br>
-  
-```javascript
-const DualsFWShield = {
-    code: ["Python", "JS", "HTML"],
-    tools: ["Brain", "Coffee", "Keyboard"],
-    status: "Always Learning",
-    challenge: function() {
-        while(alive) {
-            eat();
-            sleep();
-            code();
-            repeat();
-        }
-    }
-};
-```
 </div>
