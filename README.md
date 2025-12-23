@@ -1,162 +1,135 @@
-<p align="center">
-    <img src="https://github.com/DualsFWShield/DualsFWShield/blob/6ca9f4ab53c7c74c23089f1795d1d1eeba280229/Duals-simple.png" width="120" height="120" alt="DualsFWShield Logo">
-</p>
+<!-- HEADER & LOGO -->
+<div align="center">
+  <img src="https://github.com/DualsFWShield/DualsFWShield/blob/6ca9f4ab53c7c74c23089f1795d1d1eeba280229/Duals-simple.png" width="150" height="150" alt="DualsFWShield Logo">
+  
+  <br>
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Developpeur;Hacker+%C3%A9tique;Monteur+vid%C3%A9o;Designer+Web;Intelligence+Artificielle" alt="Typing SVG">
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Developpeur+Full+Stack;Hacker+%C3%89thique;Monteur+Vid%C3%A9o;Passionn%C3%A9+d'IA&center=true&vCenter=true" alt="Typing SVG">
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/DualsFWShield/DualsFWShield/75bcf4b52138535a43d91dc7da74a94eeb805c31/github-contribution-grid-snake-dark.svg" alt="Contributions Graph">
-</p>
-
----
-
-## 💫 About Me
-🔭 I’m currently working on HTML projects  
-🌱 I’m currently learning Python, PHP, JavaScript, and CSS  
-💬 Ask me about IA  
-⚡ Fun fact: I love working with ChatGPT
-
----
-
-## 🌐 Socials
-<p align="center">
-    <a href="https://instagram.com/brn.s00">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  <!-- SOCIALS (Top for quick access) -->
+  <p>
+    <a href="https://sites.google.com/view/brn-s/">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
     </a>
     <a href="https://linkedin.com/in/noah-bruijninckx-930a80221">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://reddit.com/user/Accomplished_Crow974">
-        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit">
+    <a href="https://instagram.com/brn.s00">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://youtube.com/@@Brn-s">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
     </a>
-</p>
+  </p>
+</div>
 
 ---
 
-## 💻 Tech Stack
-<p align="center">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> 
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"> 
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
-    <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"> 
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> 
-    <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
-    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
-    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"> 
-    <img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"> 
-    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-    <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> 
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-    <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="GIMP">
-    <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="Krita">
-    <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="Inkscape">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
-    <img src="https://img.shields.io/badge/tensorflow-%23FF6F20.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/PIL-%23E03E31.svg?style=for-the-badge&logo=python&logoColor=white" alt="PIL">
-</p>
+<!-- INTRO & ANIMATION -->
+<div align="center">
+  <table>
+    <tr>
+      <td valign="center" width="50%">
+        <h2>👋 About Me</h2>
+        <p>
+            🔭 I’m currently working on <b>Advanced HTML & Web Projects</b><br>
+            🌱 I’m currently learning <b>Python, PHP & Cyber Security</b><br>
+            🤖 Ask me about <b>Artificial Intelligence & Automation</b><br>
+            ⚡ Fun fact: <b>I code better with synthwave music</b>
+        </p>
+        <br>
+        <a href="https://github.com/DualsFWShield">
+          <img src="https://visitcount.itsvg.in/api?id=DualsFWShield&icon=5&color=2" alt="Visitor Count">
+        </a>
+      </td>
+      <td valign="center" width="50%">
+        <img src="https://raw.githubusercontent.com/DualsFWShield/DualsFWShield/75bcf4b52138535a43d91dc7da74a94eeb805c31/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=DualsFWShield&icon=2&color=4" alt="Visitor Count">
-</p>
+<!-- TECH STACK (Categorized for clarity) -->
+<h2 align="center">💻 Tech Stack</h2>
+
+<div align="center">
+  
+  **Languages**<br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+
+  <br><br>
+
+  **Frameworks & Libraries**<br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+
+  <br><br>
+
+  **Tools & Hosting**<br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WP">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+
+  <br><br>
+  
+  **Design & Creativity**<br>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+  <img src="https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape">
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DualsFWShield&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DualsFWShield&theme=dark&hide_border=true" alt="GitHub Streak">
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DualsFWShield&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
+<!-- GITHUB STATS (Side by side layout) -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DualsFWShield&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DualsFWShield&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DualsFWShield&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=DualsFWShield&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
-
----
-
-## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
-<p align="center">
-    <a href="https://sites.google.com/view/brn-s/" target="_blank">
-        <img src="https://github.com/DualsFWShield/DualsFWShield/blob/d00a4ab12aa4ad751a4ae801cbae1891d0e74507/Brn's%202.0.png" width="40" height="40" alt="Site">
-    </a>
-    <a href="https://www.youtube.com/@brn-s" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UClwCIeNju1hnCj2jsWlxSdA" alt="YouTube">
-    </a>
-    <a href="https://www.instagram.com/brn.s00/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="Instagram">
-    </a>
-</p>
-
----
-
-## 🛠️ Skills
-- Problem Solving
-- Website Designing
-- Video Editing
-- Researching & Learning
-- PC Repair
-
----
-
-## 🎨 Hobbies
-- 🍽️ Eating
-- 🛌 Sleeping
-- 👨🏻‍💻 Coding
-- 📚 Learning
-- 🎮 Video Games
-- 🎧 Listening to Music
-
----
-
-<pre>
-    // Check if the code is functioning correctly
-    if (isCodeWorking) {
-        // Continuously improve the code quality until it reaches perfection
-        while (codeQuality &lt; perfection) {
-            codeQuality++; // Increment code quality
+<!-- FOOTER & QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
+  <br><br>
+  
+```javascript
+const DualsFWShield = {
+    code: ["Python", "JS", "HTML"],
+    tools: ["Brain", "Coffee", "Keyboard"],
+    status: "Always Learning",
+    challenge: function() {
+        while(alive) {
+            eat();
+            sleep();
+            code();
+            repeat();
         }
     }
-    
-    while(alive) {
-      eat();
-      sleep();
-      code();
-    }
-</pre>
+};
+```
+</div>
