@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="174" viewBox="0 0 860 174" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="860" y2="174" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="50%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="0" y2="174" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#20C20E" />
+      <stop offset="50%" stop-color="#00F0FF" />
+      <stop offset="100%" stop-color="#FF2A85" />
+    </linearGradient>
+    <linearGradient id="topLine" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#20C20E" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#FF2A85" stop-opacity="0.8" />
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.45" />
+    </pattern>
+  </defs>
+
+  <style>
+    .header { font: 600 12px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, SFMono-Regular, Menlo, monospace; fill: #8B949E; }
+    .prompt { font: 700 12px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, SFMono-Regular, Menlo, monospace; fill: #20C20E; }
+    .cmd    { font: 600 12px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, SFMono-Regular, Menlo, monospace; fill: #00F0FF; }
+    .quote  { font: 600 15.5px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, SFMono-Regular, Menlo, monospace; fill: #F0F6FC; }
+    .source { font: 700 12.5px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, SFMono-Regular, Menlo, monospace; fill: #00F0FF; letter-spacing: 0.6px; }
+    .meta   { font: 500 11px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, SFMono-Regular, Menlo, monospace; fill: #6E7681; }
+    .accent { fill: #20C20E; }
+    .pink   { fill: #FF2A85; }
+    .cursor { fill: #20C20E; animation: blink 1s steps(1, end) infinite; }
+    .pulse  { animation: pulseOp 2.2s ease-in-out infinite; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes pulseOp { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+  </style>
+
+  <!-- Outer Card & Grid -->
+  <rect x="1" y="1" width="858" height="172" rx="12" fill="url(#bgGrad)" stroke="#21262D" stroke-width="1.5" />
+  <rect x="2" y="2" width="856" height="170" rx="11" fill="url(#grid)" />
+
+  <!-- Top & Left Cyber Neon Bars -->
+  <rect x="1" y="14" width="4" height="146" rx="2" fill="url(#accentGrad)" />
+  <line x1="16" y1="1.5" x2="844" y2="1.5" stroke="url(#topLine)" stroke-width="1.5" />
+
+  <!-- Terminal Header Bar -->
+  <rect x="6" y="6" width="848" height="36" rx="8" fill="#0D1117" fill-opacity="0.85" />
+  <circle cx="26" cy="24" r="4.5" fill="#FF2A85" />
+  <circle cx="42" cy="24" r="4.5" fill="#F59E0B" />
+  <circle cx="58" cy="24" r="4.5" fill="#20C20E" />
+
+  <text x="78" y="28" class="prompt">duals@fw-shield:~$</text>
+  <text x="218" y="28" class="cmd">fortune --cyber-parody</text>
+
+  <!-- Right Header Telemetry -->
+  <circle cx="726" cy="24" r="3.5" fill="#20C20E" class="pulse" />
+  <text x="838" y="28" text-anchor="end" class="header">QUOTE #009/100</text>
+
+  <!-- Divider -->
+  <line x1="20" y1="44" x2="840" y2="44" stroke="#21262D" stroke-width="1" />
+
+  <!-- Quote Lines -->
+  <text x="38" y="80" class="quote">&quot;Hello friend. Are you hallucinating, or is it just my context</text>
+  <text x="38" y="106" class="quote">window?&quot;<tspan class="cursor"> &#9608;</tspan></text>
+
+  <!-- Bottom Footer Bar -->
+  <line x1="20" y1="136" x2="840" y2="136" stroke="#1E293B" stroke-width="1" stroke-dasharray="4 4" />
+  <text x="38" y="158" class="meta">[SYS.CRON: 6H_ROTATION] // [POOL: 100_PARODIES] // [EXIT: 0]</text>
+
+  <!-- Source Attribution -->
+  <text x="834" y="158" text-anchor="end" class="source">
+    <tspan class="pink">// </tspan>SOURCE: MR. ROBOT
+  </text>
+</svg>

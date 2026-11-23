@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="270" viewBox="0 0 860 270" fill="none">
+  <defs>
+    <linearGradient id="hudBg" x1="0" y1="0" x2="860" y2="270" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#070B12" />
+      <stop offset="50%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="neonBorder" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#20C20E" />
+      <stop offset="50%" stop-color="#00F0FF" />
+      <stop offset="100%" stop-color="#FF2A85" />
+    </linearGradient>
+    <linearGradient id="eqGrad" x1="0" y1="190" x2="0" y2="95" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#20C20E" />
+      <stop offset="55%" stop-color="#00F0FF" />
+      <stop offset="100%" stop-color="#FF2A85" />
+    </linearGradient>
+    <linearGradient id="shieldBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#20C20E" />
+      <stop offset="100%" stop-color="#00F0FF" />
+    </linearGradient>
+    <pattern id="cyberGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.45" />
+    </pattern>
+  </defs>
+
+  <style>
+    .title  { font: 700 12px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, monospace; fill: #F0F6FC; letter-spacing: 0.8px; }
+    .sub    { font: 600 11px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, monospace; fill: #8B949E; }
+    .secHdr { font: 700 12px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, monospace; fill: #00F0FF; letter-spacing: 0.5px; }
+    .key    { font: 700 12.5px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, monospace; fill: #20C20E; }
+    .val    { font: 500 12.5px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, monospace; fill: #E6EDF3; }
+    .hi     { font: 700 12.5px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, monospace; fill: #FF2A85; }
+    .cyan   { font: 600 12px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, monospace; fill: #00F0FF; }
+    .tag    { font: 700 10.5px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, ui-monospace, monospace; fill: #E6EDF3; }
+    .pulse  { animation: pulseLed 2s ease-in-out infinite; }
+    .scan   { animation: scanMove 3.6s ease-in-out infinite; }
+
+    .bar { transform-box: fill-box; transform-origin: bottom; animation: eqDance 1.2s ease-in-out infinite alternate; }
+    .b1  { animation-duration: 0.75s; animation-delay: 0.05s; }
+    .b2  { animation-duration: 1.10s; animation-delay: 0.20s; }
+    .b3  { animation-duration: 0.65s; animation-delay: 0.35s; }
+    .b4  { animation-duration: 0.95s; animation-delay: 0.10s; }
+    .b5  { animation-duration: 0.80s; animation-delay: 0.45s; }
+    .b6  { animation-duration: 1.25s; animation-delay: 0.15s; }
+    .b7  { animation-duration: 0.70s; animation-delay: 0.30s; }
+    .b8  { animation-duration: 1.05s; animation-delay: 0.50s; }
+    .b9  { animation-duration: 0.60s; animation-delay: 0.25s; }
+    .b10 { animation-duration: 0.90s; animation-delay: 0.40s; }
+
+    @keyframes eqDance {
+      0%   { transform: scaleY(0.22); opacity: 0.75; }
+      50%  { transform: scaleY(0.68); opacity: 0.92; }
+      100% { transform: scaleY(1);    opacity: 1; }
+    }
+    @keyframes pulseLed {
+      0%, 100% { opacity: 1; }
+      50%      { opacity: 0.3; }
+    }
+    @keyframes scanMove {
+      0%   { transform: translateX(0px); opacity: 0.2; }
+      50%  { transform: translateX(250px); opacity: 0.85; }
+      100% { transform: translateX(0px); opacity: 0.2; }
+    }
+  </style>
+
+  <!-- Main Outer Frame -->
+  <rect x="1" y="1" width="858" height="268" rx="14" fill="url(#hudBg)" stroke="#21262D" stroke-width="1.5" />
+  <rect x="2" y="2" width="856" height="266" rx="13" fill="url(#cyberGrid)" />
+  <line x1="18" y1="1.5" x2="842" y2="1.5" stroke="url(#neonBorder)" stroke-width="2" />
+
+  <!-- Top Telemetry Bar -->
+  <rect x="8" y="8" width="844" height="32" rx="8" fill="#0D1117" fill-opacity="0.9" />
+  <circle cx="26" cy="24" r="4.5" fill="#FF2A85" />
+  <circle cx="42" cy="24" r="4.5" fill="#F59E0B" />
+  <circle cx="58" cy="24" r="4.5" fill="#20C20E" />
+  <text x="78" y="28" class="title">DUALSFWSHIELD // CYBER-SYNTHWAVE COMMAND HUD</text>
+
+  <circle cx="678" cy="24" r="4" fill="#20C20E" class="pulse" />
+  <text x="690" y="28" class="key">SHIELD: ACTIVE</text>
+  <text x="838" y="28" text-anchor="end" class="sub">[v4.2]</text>
+
+  <!-- ==================== LEFT MODULE: OPERATOR DOSSIER ==================== -->
+  <rect x="16" y="48" width="444" height="206" rx="10" fill="#0D1117" fill-opacity="0.88" stroke="#21262D" stroke-width="1.2" />
+  <rect x="16" y="60" width="3.5" height="182" rx="1.75" fill="#20C20E" />
+
+  <text x="34" y="72" class="secHdr">&gt;_ OPERATOR_DOSSIER.YAML</text>
+  <text x="444" y="72" text-anchor="end" class="sub">UID: NOAH // BE</text>
+  <line x1="30" y1="82" x2="444" y2="82" stroke="#21262D" stroke-width="1" />
+
+  <text x="34" y="106" class="key">OPERATOR  :</text>
+  <text x="132" y="106" class="val">Noah Bruijninckx (@DualsFWShield)</text>
+
+  <text x="34" y="128" class="key">CLASS     :</text>
+  <text x="132" y="128" class="val">Full-Stack Dev • Ethical Hacker</text>
+
+  <text x="34" y="150" class="key">CREATIVE  :</text>
+  <text x="132" y="150" class="val">Video Editor • 3D Blender • VFX</text>
+
+  <text x="34" y="172" class="key">R&amp;D LABS  :</text>
+  <text x="132" y="172" class="val">AI Agents, Python, PHP &amp; SecOps</text>
+
+  <text x="34" y="194" class="key">OVERCLOCK :</text>
+  <text x="132" y="194" class="hi">Synthwave Music (+100% Clean Code)</text>
+
+  <!-- Firewall Shield Integrity Progress Bar -->
+  <line x1="30" y1="210" x2="444" y2="210" stroke="#1E293B" stroke-width="1" />
+  <text x="34" y="234" class="sub">FW_INTEGRITY</text>
+  <rect x="132" y="223" width="264" height="12" rx="6" fill="#161B22" stroke="#21262D" stroke-width="1" />
+  <rect x="134" y="225" width="260" height="8" rx="4" fill="url(#shieldBar)" />
+  <rect x="134" y="225" width="24" height="8" rx="4" fill="#FFFFFF" fill-opacity="0.45" class="scan" />
+  <text x="444" y="234" text-anchor="end" class="key">100%</text>
+
+  <!-- ==================== RIGHT MODULE: SYNTHWAVE AUDIO & AI DECK ==================== -->
+  <rect x="472" y="48" width="372" height="206" rx="10" fill="#0D1117" fill-opacity="0.88" stroke="#21262D" stroke-width="1.2" />
+  <rect x="840.5" y="60" width="3.5" height="182" rx="1.75" fill="#FF2A85" />
+
+  <text x="490" y="72" class="secHdr">&gt;_ SYNTHWAVE_ENGINE.SH</text>
+  <text x="828" y="72" text-anchor="end" class="hi">♪ 128 BPM</text>
+  <line x1="486" y1="82" x2="828" y2="82" stroke="#21262D" stroke-width="1" />
+
+  <!-- Visualizer Frame -->
+  <rect x="490" y="92" width="336" height="104" rx="8" fill="#080B11" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Subtle Horizon Grid inside Visualizer -->
+  <line x1="490" y1="126" x2="826" y2="126" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="3 3" />
+  <line x1="490" y1="156" x2="826" y2="156" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="3 3" />
+
+  <!-- 20 Animated Synthwave Equalizer Bars -->
+  <g fill="url(#eqGrad)">
+    <rect x="504" y="106" width="10" height="80" rx="3" class="bar b1" />
+    <rect x="520" y="102" width="10" height="84" rx="3" class="bar b4" />
+    <rect x="536" y="112" width="10" height="74" rx="3" class="bar b2" />
+    <rect x="552" y="100" width="10" height="86" rx="3" class="bar b7" />
+    <rect x="568" y="108" width="10" height="78" rx="3" class="bar b5" />
+    <rect x="584" y="98"  width="10" height="88" rx="3" class="bar b3" />
+    <rect x="600" y="104" width="10" height="82" rx="3" class="bar b9" />
+    <rect x="616" y="114" width="10" height="72" rx="3" class="bar b6" />
+    <rect x="632" y="100" width="10" height="86" rx="3" class="bar b10" />
+    <rect x="648" y="96"  width="10" height="90" rx="3" class="bar b1" />
+    <rect x="664" y="102" width="10" height="84" rx="3" class="bar b8" />
+    <rect x="680" y="98"  width="10" height="88" rx="3" class="bar b3" />
+    <rect x="696" y="110" width="10" height="76" rx="3" class="bar b5" />
+    <rect x="712" y="100" width="10" height="86" rx="3" class="bar b2" />
+    <rect x="728" y="106" width="10" height="80" rx="3" class="bar b9" />
+    <rect x="744" y="114" width="10" height="72" rx="3" class="bar b4" />
+    <rect x="760" y="102" width="10" height="84" rx="3" class="bar b7" />
+    <rect x="776" y="108" width="10" height="78" rx="3" class="bar b6" />
+    <rect x="792" y="116" width="10" height="70" rx="3" class="bar b10" />
+    <rect x="808" y="104" width="10" height="82" rx="3" class="bar b1" />
+  </g>
+
+  <!-- Track Status Pills -->
+  <text x="490" y="214" class="cyan">TRACK :: NIGHTDRIVE_SYNTHWAVE_MIX.FLAC</text>
+
+  <rect x="490" y="224" width="106" height="20" rx="5" fill="#161B22" stroke="#20C20E" stroke-width="0.8" />
+  <text x="543" y="238" text-anchor="middle" class="tag">AI: ONLINE</text>
+
+  <rect x="604" y="224" width="110" height="20" rx="5" fill="#161B22" stroke="#00F0FF" stroke-width="0.8" />
+  <text x="659" y="238" text-anchor="middle" class="tag">SEC: ETHICAL</text>
+
+  <rect x="722" y="224" width="104" height="20" rx="5" fill="#161B22" stroke="#FF2A85" stroke-width="0.8" />
+  <text x="774" y="238" text-anchor="middle" class="tag">MODE: DARK</text>
+</svg>

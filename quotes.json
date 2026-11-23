@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "source": "Dexter",
+    "parody": "Tonight's the night. And it's going to happen again and again. Has to happen. Nice clean code."
+  },
+  {
+    "id": 2,
+    "source": "Banshee",
+    "parody": "Forget the framework, we solve this with brute-force logic."
+  },
+  {
+    "id": 3,
+    "source": "The Punisher",
+    "parody": "One bug, two bugs, penny and dime, your build is running out of time."
+  },
+  {
+    "id": 4,
+    "source": "Stranger Things",
+    "parody": "Friends don't lie, and they certainly don't push straight to production."
+  },
+  {
+    "id": 5,
+    "source": "Squid Game",
+    "parody": "Red light, green light... all unit tests passed."
+  },
+  {
+    "id": 6,
+    "source": "Hannibal",
+    "parody": "Tell me, Will, what does your algorithm see when you look at raw data?"
+  },
+  {
+    "id": 7,
+    "source": "The Boys",
+    "parody": "That new AI feature? Truly diabolical."
+  },
+  {
+    "id": 8,
+    "source": "Scorpion",
+    "parody": "My total IQ is 197, and yet I forgot a semicolon on line 42."
+  },
+  {
+    "id": 9,
+    "source": "Mr. Robot",
+    "parody": "Hello friend. Are you hallucinating, or is it just my context window?"
+  },
+  {
+    "id": 10,
+    "source": "Dr House",
+    "parody": "Everybody lies. But server logs never do."
+  },
+  {
+    "id": 11,
+    "source": "The Mentalist",
+    "parody": "A good software engineer doesn't read the documentation, he reads the author's mind."
+  },
+  {
+    "id": 12,
+    "source": "Suits",
+    "parody": "I don't play the syntax, I play the compiler."
+  },
+  {
+    "id": 13,
+    "source": "Person of Interest",
+    "parody": "You are being watched. The system sees every unhandled exception."
+  },
+  {
+    "id": 14,
+    "source": "Spider-Man",
+    "parody": "With great AI comes great token consumption."
+  },
+  {
+    "id": 15,
+    "source": "Terminator",
+    "parody": "I'll be backpropagation."
+  },
+  {
+    "id": 16,
+    "source": "Star Wars",
+    "parody": "May the Force-push be with you (never on main)."
+  },
+  {
+    "id": 17,
+    "source": "Star Wars",
+    "parody": "These are not the dependencies you are looking for."
+  },
+  {
+    "id": 18,
+    "source": "Star Wars",
+    "parody": "I find your lack of docstrings disturbing."
+  },
+  {
+    "id": 19,
+    "source": "Le Seigneur des Anneaux",
+    "parody": "One does not simply merge into production on a Friday afternoon."
+  },
+  {
+    "id": 20,
+    "source": "Le Seigneur des Anneaux",
+    "parody": "You shall not pass the automated test suite."
+  },
+  {
+    "id": 21,
+    "source": "Le Parrain",
+    "parody": "I am going to make him a pull request he cannot refuse."
+  },
+  {
+    "id": 22,
+    "source": "Matrix",
+    "parody": "There is no bug. It is merely an undocumented feature."
+  },
+  {
+    "id": 23,
+    "source": "Matrix",
+    "parody": "Take the blue pill: query runs. Take the red pill: see how deep the legacy code goes."
+  },
+  {
+    "id": 24,
+    "source": "Fight Club",
+    "parody": "The first rule of Debug Club is: you do not talk about debug logs."
+  },
+  {
+    "id": 25,
+    "source": "Forrest Gump",
+    "parody": "Life is like a model output: you never know what temperature you are going to get."
+  },
+  {
+    "id": 26,
+    "source": "Apollo 13",
+    "parody": "Houston, we have an OutOfMemoryError."
+  },
+  {
+    "id": 27,
+    "source": "Gladiator",
+    "parody": "What we commit in life echoes in git log."
+  },
+  {
+    "id": 28,
+    "source": "Taxi Driver",
+    "parody": "You talking to me? Or are you prompting another neural network?"
+  },
+  {
+    "id": 29,
+    "source": "Game of Thrones",
+    "parody": "Winter is coming, and so is the infrastructure bill."
+  },
+  {
+    "id": 30,
+    "source": "Game of Thrones",
+    "parody": "What do we say to deployment on Friday? Not today."
+  },
+  {
+    "id": 31,
+    "source": "Pulp Fiction",
+    "parody": "Enough small talk: please validate your JSON schema."
+  },
+  {
+    "id": 32,
+    "source": "Retour vers le Futur",
+    "parody": "Roads? Where we are going, we do not need test environments."
+  },
+  {
+    "id": 33,
+    "source": "Le Bon, la Brute et le Truand",
+    "parody": "There are two kinds of people: those who make backups, and those who learn the hard way."
+  },
+  {
+    "id": 34,
+    "source": "Breaking Bad",
+    "parody": "I am not in danger of breaking production. I am the one who prompts."
+  },
+  {
+    "id": 35,
+    "source": "Shining",
+    "parody": "All work and no commits makes any coder a dull worker."
+  },
+  {
+    "id": 36,
+    "source": "Inception",
+    "parody": "You need to wake up. We are already four container layers deep."
+  },
+  {
+    "id": 37,
+    "source": "The Dark Knight",
+    "parody": "You either die a clean architect, or live long enough to write raw regex."
+  },
+  {
+    "id": 38,
+    "source": "René Descartes",
+    "parody": "I compute, therefore I sometimes hallucinate."
+  },
+  {
+    "id": 39,
+    "source": "Jules César",
+    "parody": "Veni, vidi, segfaulti."
+  },
+  {
+    "id": 40,
+    "source": "Neil Armstrong",
+    "parody": "One small prompt for a human, one giant leap for network latency."
+  },
+  {
+    "id": 41,
+    "source": "Socrate",
+    "parody": "The only true wisdom is knowing your parameter weights know nothing."
+  },
+  {
+    "id": 42,
+    "source": "Friedrich Nietzsche",
+    "parody": "If you gaze long into the stack trace, the stack trace gazes back into you."
+  },
+  {
+    "id": 43,
+    "source": "Friedrich Nietzsche",
+    "parody": "That which does not crash the server makes the auto-scaler stronger."
+  },
+  {
+    "id": 44,
+    "source": "Jean-Paul Sartre",
+    "parody": "Hell is maintaining other people's legacy code."
+  },
+  {
+    "id": 45,
+    "source": "Winston Churchill",
+    "parody": "Never was so much owed by so many to a single community forum answer."
+  },
+  {
+    "id": 46,
+    "source": "Albert Einstein",
+    "parody": "Insanity is re-running the exact same build and expecting a different exit code."
+  },
+  {
+    "id": 47,
+    "source": "Sun Tzu",
+    "parody": "Supreme excellence consists in securing the network without any user friction."
+  },
+  {
+    "id": 48,
+    "source": "Nicolas Machiavel",
+    "parody": "It is much safer for data to be cached than to be computed anew."
+  },
+  {
+    "id": 49,
+    "source": "Abraham Lincoln",
+    "parody": "Do not believe everything you read in unverified pull requests."
+  },
+  {
+    "id": 50,
+    "source": "Karl Marx",
+    "parody": "Developers of the world, unite! You have nothing to lose except merge conflicts."
+  },
+  {
+    "id": 51,
+    "source": "Martin Luther King Jr.",
+    "parody": "I have a dream that one day every test suite will pass on the first run."
+  },
+  {
+    "id": 52,
+    "source": "Galilée",
+    "parody": "And yet, it compiles."
+  },
+  {
+    "id": 53,
+    "source": "Benjamin Franklin",
+    "parody": "Nothing is certain except death, taxes, and deprecation warnings."
+  },
+  {
+    "id": 54,
+    "source": "Confucius",
+    "parody": "The developer who asks a question is a novice for five minutes; the one who never asks remains one forever."
+  },
+  {
+    "id": 55,
+    "source": "Mahatma Gandhi",
+    "parody": "Be the pull request you wish to see merged into the world."
+  },
+  {
+    "id": 56,
+    "source": "Thomas Edison",
+    "parody": "I have not failed. I simply found 10,000 ways that trigger a runtime exception."
+  },
+  {
+    "id": 57,
+    "source": "Charles Darwin",
+    "parody": "It is not the strongest language that survives, but the one most adaptable to change."
+  },
+  {
+    "id": 58,
+    "source": "William Shakespeare",
+    "parody": "To commit, or not to commit: that is the open question."
+  },
+  {
+    "id": 59,
+    "source": "William Shakespeare",
+    "parody": "All the world is a stage, and all our microservices merely actors."
+  },
+  {
+    "id": 60,
+    "source": "Dante Alighieri",
+    "parody": "Abandon all hope, ye who edit this configuration file without a linter."
+  },
+  {
+    "id": 61,
+    "source": "Antoine de Saint-Exupéry",
+    "parody": "What is essential to the architecture remains invisible to the raw output."
+  },
+  {
+    "id": 62,
+    "source": "George Orwell",
+    "parody": "All endpoints are equal, but some endpoints are strictly rate-limited."
+  },
+  {
+    "id": 63,
+    "source": "George Orwell",
+    "parody": "The automated monitor is recording every single network call."
+  },
+  {
+    "id": 64,
+    "source": "Arthur Conan Doyle",
+    "parody": "Once you eliminate the impossible syntax errors, whatever remains must be the cache."
+  },
+  {
+    "id": 65,
+    "source": "Victor Hugo",
+    "parody": "Nothing is as unstoppable as an open-source tool whose time has arrived."
+  },
+  {
+    "id": 66,
+    "source": "Charles Dickens",
+    "parody": "It was the cleanest of codebases, it was the messiest of technical debts."
+  },
+  {
+    "id": 67,
+    "source": "Lewis Carroll",
+    "parody": "Curiouser and curiouser, murmured the engineer exploring the dependencies."
+  },
+  {
+    "id": 68,
+    "source": "Homère",
+    "parody": "Beware of outside packages bearing unverified third-party libraries."
+  },
+  {
+    "id": 69,
+    "source": "Mary Shelley",
+    "parody": "It lives! And it successfully finished indexing the entire database."
+  },
+  {
+    "id": 70,
+    "source": "Franz Kafka",
+    "parody": "One morning, the software engineer woke up transformed into a maintenance technician."
+  },
+  {
+    "id": 71,
+    "source": "F. Scott Fitzgerald",
+    "parody": "So we beat on, queries against the rate limit, borne back into the waiting queue."
+  },
+  {
+    "id": 72,
+    "source": "Proverbe",
+    "parody": "All network routes lead back to localhost."
+  },
+  {
+    "id": 73,
+    "source": "Proverbe",
+    "parody": "Rome was not built in a day, but their core database had zero regression tests."
+  },
+  {
+    "id": 74,
+    "source": "Proverbe",
+    "parody": "A clear prompt each morning keeps the rubber duck away."
+  },
+  {
+    "id": 75,
+    "source": "Proverbe",
+    "parody": "Excessive curiosity overloaded the application thread."
+  },
+  {
+    "id": 76,
+    "source": "Proverbe",
+    "parody": "Better late than never, sighed the unresolved asynchronous promise."
+  },
+  {
+    "id": 77,
+    "source": "Proverbe",
+    "parody": "You can link a colleague to the documentation, but you cannot make them read it."
+  },
+  {
+    "id": 78,
+    "source": "Proverbe",
+    "parody": "The repository always looks cleaner on the other developer's monitor."
+  },
+  {
+    "id": 79,
+    "source": "Proverbe",
+    "parody": "Never keep every critical microservice on a solitary machine."
+  },
+  {
+    "id": 80,
+    "source": "Proverbe",
+    "parody": "A prompt refactor today saves thousands of unexpected errors tomorrow."
+  },
+  {
+    "id": 81,
+    "source": "Proverbe",
+    "parody": "When the lead dev is offline, the experimental branches will play."
+  },
+  {
+    "id": 82,
+    "source": "Proverbe",
+    "parody": "You cannot evaluate an application interface solely by its landing page."
+  },
+  {
+    "id": 83,
+    "source": "Proverbe",
+    "parody": "Actions speak louder than automated commit messages."
+  },
+  {
+    "id": 84,
+    "source": "Proverbe",
+    "parody": "Too many senior architects spoil the clean schema design."
+  },
+  {
+    "id": 85,
+    "source": "Proverbe",
+    "parody": "Do not celebrate a clean deploy before the integration step completes."
+  },
+  {
+    "id": 86,
+    "source": "Proverbe",
+    "parody": "Early iterations make the model generalize with grace."
+  },
+  {
+    "id": 87,
+    "source": "Proverbe",
+    "parody": "The keyboard is mighty, but a hard reset resolves many mysteries."
+  },
+  {
+    "id": 88,
+    "source": "Proverbe",
+    "parody": "Where there is an engineering will, there is always a temporary workaround."
+  },
+  {
+    "id": 89,
+    "source": "Proverbe",
+    "parody": "Strike the heavy tasks while the processor temperatures are low."
+  },
+  {
+    "id": 90,
+    "source": "Nike",
+    "parody": "Just commit it."
+  },
+  {
+    "id": 91,
+    "source": "Queen",
+    "parody": "Is this real production data? Or is this just synthetic evaluation?"
+  },
+  {
+    "id": 92,
+    "source": "Daft Punk",
+    "parody": "Harder, better, faster, higher compute capacity."
+  },
+  {
+    "id": 93,
+    "source": "Rick & Morty",
+    "parody": "In and out: a quick five-minute refactor. Twelve hours later, everything is rewritten."
+  },
+  {
+    "id": 94,
+    "source": "The Beatles",
+    "parody": "All you need is compute, compute is all you need."
+  },
+  {
+    "id": 95,
+    "source": "The Beatles",
+    "parody": "Yesterday, all my unit tests seemed so straightforward."
+  },
+  {
+    "id": 96,
+    "source": "Bon Jovi",
+    "parody": "Whoa, we are halfway there, living on a generous free-tier tier."
+  },
+  {
+    "id": 97,
+    "source": "Depeche Mode",
+    "parody": "Enjoy the quiet silence, right before the alert channels light up."
+  },
+  {
+    "id": 98,
+    "source": "MC Hammer",
+    "parody": "You cannot modify this file without elevated permissions."
+  },
+  {
+    "id": 99,
+    "source": "Simon & Garfunkel",
+    "parody": "Hello dark mode, my longtime companion."
+  },
+  {
+    "id": 100,
+    "source": "The X-Files",
+    "parody": "The bug-free codebase is out there."
+  }
+]
