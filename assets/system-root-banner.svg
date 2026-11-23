@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="142" viewBox="0 0 860 142" fill="none">
+  <defs>
+    <linearGradient id="rootBg" x1="0" y1="0" x2="860" y2="142" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#05070B" />
+      <stop offset="50%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#131A26" />
+    </linearGradient>
+    <linearGradient id="acidGrad" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#CCFF00" />
+      <stop offset="50%" stop-color="#20C20E" />
+      <stop offset="100%" stop-color="#00F0FF" />
+    </linearGradient>
+    <pattern id="rootGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.5" />
+    </pattern>
+  </defs>
+
+  <style>
+    .kicker { font: 700 11px 'JetBrains Mono', 'Fira Code', Consolas, monospace; fill: #CCFF00; letter-spacing: 1.2px; }
+    .domain { font: 900 26px 'JetBrains Mono', 'Fira Code', Consolas, monospace; fill: #F0F6FC; letter-spacing: 1px; }
+    .cmyC   { font: 900 26px 'JetBrains Mono', 'Fira Code', Consolas, monospace; fill: #00F0FF; letter-spacing: 1px; opacity: 0.65; animation: glitchC 3.2s infinite; }
+    .cmyM   { font: 900 26px 'JetBrains Mono', 'Fira Code', Consolas, monospace; fill: #FF2A85; letter-spacing: 1px; opacity: 0.65; animation: glitchM 3.2s infinite; }
+    .desc   { font: 500 12.5px 'JetBrains Mono', 'Fira Code', Consolas, monospace; fill: #8B949E; }
+    .pill   { font: 700 10.5px 'JetBrains Mono', 'Fira Code', Consolas, monospace; fill: #E6EDF3; }
+    .btnTxt { font: 800 12.5px 'JetBrains Mono', 'Fira Code', Consolas, monospace; fill: #050505; letter-spacing: 0.6px; }
+    .pulse  { animation: pulseDot 1.8s ease-in-out infinite; }
+    .btnBox { animation: glowBtn 2.5s ease-in-out infinite alternate; }
+
+    @keyframes glitchC {
+      0%, 88%, 100% { transform: translate(0, 0); }
+      92% { transform: translate(-2.5px, -1px); }
+      96% { transform: translate(2px, 1px); }
+    }
+    @keyframes glitchM {
+      0%, 88%, 100% { transform: translate(0, 0); }
+      92% { transform: translate(2.5px, 1px); }
+      96% { transform: translate(-2px, -1px); }
+    }
+    @keyframes pulseDot {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.25; }
+    }
+    @keyframes glowBtn {
+      0% { opacity: 0.92; }
+      100% { opacity: 1; }
+    }
+  </style>
+
+  <!-- Card Frame -->
+  <rect x="1" y="1" width="858" height="140" rx="12" fill="url(#rootBg)" stroke="#21262D" stroke-width="1.5" />
+  <rect x="2" y="2" width="856" height="138" rx="11" fill="url(#rootGrid)" />
+
+  <!-- Neo-Brutalist Acid Yellow / Green Top & Left Accents -->
+  <rect x="1" y="14" width="4.5" height="114" rx="2.25" fill="#CCFF00" />
+  <line x1="16" y1="1.5" x2="844" y2="1.5" stroke="url(#acidGrad)" stroke-width="2" />
+
+  <!-- Kicker Status -->
+  <circle cx="34" cy="28" r="4" fill="#CCFF00" class="pulse" />
+  <text x="46" y="32" class="kicker">INTERACTIVE NEO-BRUTALIST WEB OS // SYSTEM ROOT</text>
+
+  <!-- CMY Glitch Domain Title -->
+  <text x="30" y="66" class="cmyC">https://dualsfwshield.be</text>
+  <text x="30" y="66" class="cmyM">https://dualsfwshield.be</text>
+  <text x="30" y="66" class="domain">https://dualsfwshield.be</text>
+
+  <!-- Description -->
+  <text x="30" y="90" class="desc">Three.js Dimensional Rifts • Multi-Window Gravity Physics • Live Shell (guest@dualsfw:~#) • Konami God Mode</text>
+
+  <!-- Feature Pills -->
+  <rect x="30" y="104" width="132" height="22" rx="4" fill="#161B22" stroke="#CCFF00" stroke-width="0.9" />
+  <text x="96" y="119" text-anchor="middle" class="pill">FEATURED: BEERDEX</text>
+
+  <rect x="170" y="104" width="128" height="22" rx="4" fill="#161B22" stroke="#20C20E" stroke-width="0.9" />
+  <text x="234" y="119" text-anchor="middle" class="pill">TERMINAL ARCHIVE</text>
+
+  <rect x="306" y="104" width="114" height="22" rx="4" fill="#161B22" stroke="#00F0FF" stroke-width="0.9" />
+  <text x="363" y="119" text-anchor="middle" class="pill">MOTION LAB 🎬</text>
+
+  <rect x="428" y="104" width="126" height="22" rx="4" fill="#161B22" stroke="#FF2A85" stroke-width="0.9" />
+  <text x="491" y="119" text-anchor="middle" class="pill">IDENTITY GRID [10]</text>
+
+  <!-- Right CTA Button (Neo-Brutalist Hard Shadow) -->
+  <rect x="652" y="48" width="184" height="48" rx="6" fill="#20C20E" />
+  <rect x="648" y="44" width="184" height="48" rx="6" fill="#CCFF00" stroke="#050505" stroke-width="2" class="btnBox" />
+  <text x="740" y="73" text-anchor="middle" class="btnTxt">&gt; ENTER_SYSTEM ↗</text>
+</svg>

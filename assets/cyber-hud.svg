@@ -78,14 +78,14 @@
 
   <circle cx="678" cy="24" r="4" fill="#20C20E" class="pulse" />
   <text x="690" y="28" class="key">SHIELD: ACTIVE</text>
-  <text x="838" y="28" text-anchor="end" class="sub">[v4.2]</text>
+  <text x="838" y="28" text-anchor="end" class="sub">[v4.5]</text>
 
   <!-- ==================== LEFT MODULE: OPERATOR DOSSIER ==================== -->
   <rect x="16" y="48" width="444" height="206" rx="10" fill="#0D1117" fill-opacity="0.88" stroke="#21262D" stroke-width="1.2" />
   <rect x="16" y="60" width="3.5" height="182" rx="1.75" fill="#20C20E" />
 
   <text x="34" y="72" class="secHdr">&gt;_ OPERATOR_DOSSIER.YAML</text>
-  <text x="444" y="72" text-anchor="end" class="sub">UID: NOAH // BE</text>
+  <text x="444" y="72" text-anchor="end" class="sub">HOST: DUALSFWSHIELD.BE</text>
   <line x1="30" y1="82" x2="444" y2="82" stroke="#21262D" stroke-width="1" />
 
   <text x="34" y="106" class="key">OPERATOR  :</text>
@@ -94,14 +94,14 @@
   <text x="34" y="128" class="key">CLASS     :</text>
   <text x="132" y="128" class="val">Full-Stack Dev • Ethical Hacker</text>
 
-  <text x="34" y="150" class="key">CREATIVE  :</text>
-  <text x="132" y="150" class="val">Video Editor • 3D Blender • VFX</text>
+  <text x="34" y="150" class="key">SYSTEMS   :</text>
+  <text x="132" y="150" class="val">Rust Native Apps • Local-First Web</text>
 
-  <text x="34" y="172" class="key">R&amp;D LABS  :</text>
-  <text x="132" y="172" class="val">AI Agents, Python, PHP &amp; SecOps</text>
+  <text x="34" y="172" class="key">CREATIVE  :</text>
+  <text x="132" y="172" class="val">Video Editor • 3D Blender • Motion Lab</text>
 
   <text x="34" y="194" class="key">OVERCLOCK :</text>
-  <text x="132" y="194" class="hi">Synthwave Music (+100% Clean Code)</text>
+  <text x="132" y="194" class="hi">Synthwave &amp; Phonk (+100% Clean Code)</text>
 
   <!-- Firewall Shield Integrity Progress Bar -->
   <line x1="30" y1="210" x2="444" y2="210" stroke="#1E293B" stroke-width="1" />
@@ -153,12 +153,12 @@
   <!-- Track Status Pills -->
   <text x="490" y="214" class="cyan">TRACK :: NIGHTDRIVE_SYNTHWAVE_MIX.FLAC</text>
 
-  <rect x="490" y="224" width="106" height="20" rx="5" fill="#161B22" stroke="#20C20E" stroke-width="0.8" />
-  <text x="543" y="238" text-anchor="middle" class="tag">AI: ONLINE</text>
+  <rect x="490" y="224" width="106" height="20" rx="5" fill="#161B22" stroke="#F74C00" stroke-width="0.9" />
+  <text x="543" y="238" text-anchor="middle" class="tag">RUST: NATIVE</text>
 
-  <rect x="604" y="224" width="110" height="20" rx="5" fill="#161B22" stroke="#00F0FF" stroke-width="0.8" />
+  <rect x="604" y="224" width="110" height="20" rx="5" fill="#161B22" stroke="#00F0FF" stroke-width="0.9" />
   <text x="659" y="238" text-anchor="middle" class="tag">SEC: ETHICAL</text>
 
-  <rect x="722" y="224" width="104" height="20" rx="5" fill="#161B22" stroke="#FF2A85" stroke-width="0.8" />
-  <text x="774" y="238" text-anchor="middle" class="tag">MODE: DARK</text>
+  <rect x="722" y="224" width="104" height="20" rx="5" fill="#161B22" stroke="#20C20E" stroke-width="0.9" />
+  <text x="774" y="238" text-anchor="middle" class="tag">AI: ASSISTED</text>
 </svg>
