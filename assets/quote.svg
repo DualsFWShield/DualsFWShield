@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="174" viewBox="0 0 860 174" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="148" viewBox="0 0 860 148" fill="none">
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="860" y2="174" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="860" y2="148" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#090D16" />
       <stop offset="50%" stop-color="#0D1117" />
       <stop offset="100%" stop-color="#111827" />
     </linearGradient>
-    <linearGradient id="accentGrad" x1="0" y1="0" x2="0" y2="174" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="0" y2="148" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#20C20E" />
       <stop offset="50%" stop-color="#00F0FF" />
       <stop offset="100%" stop-color="#FF2A85" />
@@ -36,11 +36,11 @@
   </style>
 
   <!-- Outer Card & Grid -->
-  <rect x="1" y="1" width="858" height="172" rx="12" fill="url(#bgGrad)" stroke="#21262D" stroke-width="1.5" />
-  <rect x="2" y="2" width="856" height="170" rx="11" fill="url(#grid)" />
+  <rect x="1" y="1" width="858" height="146" rx="12" fill="url(#bgGrad)" stroke="#21262D" stroke-width="1.5" />
+  <rect x="2" y="2" width="856" height="144" rx="11" fill="url(#grid)" />
 
   <!-- Top & Left Cyber Neon Bars -->
-  <rect x="1" y="14" width="4" height="146" rx="2" fill="url(#accentGrad)" />
+  <rect x="1" y="14" width="4" height="120" rx="2" fill="url(#accentGrad)" />
   <line x1="16" y1="1.5" x2="844" y2="1.5" stroke="url(#topLine)" stroke-width="1.5" />
 
   <!-- Terminal Header Bar -->
@@ -54,21 +54,20 @@
 
   <!-- Right Header Telemetry -->
   <circle cx="726" cy="24" r="3.5" fill="#20C20E" class="pulse" />
-  <text x="838" y="28" text-anchor="end" class="header">QUOTE #070/100</text>
+  <text x="838" y="28" text-anchor="end" class="header">QUOTE #089/100</text>
 
   <!-- Divider -->
   <line x1="20" y1="44" x2="840" y2="44" stroke="#21262D" stroke-width="1" />
 
   <!-- Quote Lines -->
-    <text x="38" y="80" class="quote">&quot;One morning, the software engineer woke up transformed into a</text>
-    <text x="38" y="106" class="quote">maintenance technician.&quot;<tspan class="cursor"> &#9608;</tspan></text>
+    <text x="38" y="80" class="quote">&quot;Strike the heavy tasks while the processor temperatures are low.&quot;<tspan class="cursor"> &#9608;</tspan></text>
 
   <!-- Bottom Footer Bar -->
-  <line x1="20" y1="136" x2="840" y2="136" stroke="#1E293B" stroke-width="1" stroke-dasharray="4 4" />
-  <text x="38" y="158" class="meta">[SYS.CRON: 6H_ROTATION] // [POOL: 100_PARODIES] // [EXIT: 0]</text>
+  <line x1="20" y1="110" x2="840" y2="110" stroke="#1E293B" stroke-width="1" stroke-dasharray="4 4" />
+  <text x="38" y="132" class="meta">[SYS.CRON: 6H_ROTATION] // [POOL: 100_PARODIES] // [EXIT: 0]</text>
 
   <!-- Source Attribution -->
-  <text x="834" y="158" text-anchor="end" class="source">
-    <tspan class="pink">// </tspan>SOURCE: FRANZ KAFKA
+  <text x="834" y="132" text-anchor="end" class="source">
+    <tspan class="pink">// </tspan>SOURCE: PROVERBE
   </text>
 </svg>
