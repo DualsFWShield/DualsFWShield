@@ -54,13 +54,13 @@
 
   <!-- Right Header Telemetry -->
   <circle cx="726" cy="24" r="3.5" fill="#20C20E" class="pulse" />
-  <text x="838" y="28" text-anchor="end" class="header">QUOTE #072/100</text>
+  <text x="838" y="28" text-anchor="end" class="header">QUOTE #089/100</text>
 
   <!-- Divider -->
   <line x1="20" y1="44" x2="840" y2="44" stroke="#21262D" stroke-width="1" />
 
   <!-- Quote Lines -->
-    <text x="38" y="80" class="quote">&quot;All network routes lead back to localhost.&quot;<tspan class="cursor"> &#9608;</tspan></text>
+    <text x="38" y="80" class="quote">&quot;Strike the heavy tasks while the processor temperatures are low.&quot;<tspan class="cursor"> &#9608;</tspan></text>
 
   <!-- Bottom Footer Bar -->
   <line x1="20" y1="110" x2="840" y2="110" stroke="#1E293B" stroke-width="1" stroke-dasharray="4 4" />
